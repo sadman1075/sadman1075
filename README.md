@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQE8L65SiQtLLA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1725197785056?e=2147483647&v=beta&t=0WxSBgxyAFsXA9GkUGxnqwozl6wNS8sqL7zbp_FPPpk)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQE8L65SiQtLLA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1725197785056?e=2147483647&v=beta&t=0WxSBgxyAFsXA9GkUGxnqwozl6wNS8sqL7zbp_FPPpk)
 
 
 <h1 align="center">Hi 👋, I'm sadman shakib</h1>
