@@ -29,7 +29,6 @@ As a frontend web developer, I specialize in creating the visual and interactive
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sadman shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman shakib" height="30" width="40" /></a>
-<a href="https://kaggle.com/sadman shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sadman shakib" height="30" width="40" /></a>
 <a href="https://fb.com/sadman shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman shakib" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sadmanshakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sadmanshakib" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sadman10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadman10" height="30" width="40" /></a>
