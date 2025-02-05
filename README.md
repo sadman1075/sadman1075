@@ -35,6 +35,6 @@ As a frontend web developer, I specialize in creating the visual and interactive
 <a href="https://codeforces.com/profile/sadman10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadman10" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadman1075&show_icons=true&locale=en&layout=compact" alt="sadman1075" width="600" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadman1075&show_icons=true&locale=en&layout=compact" alt="sadman1075" width="400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman1075&" alt="sadman1075" width="600" /></p>
