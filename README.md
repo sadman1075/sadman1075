@@ -37,4 +37,4 @@ As a frontend web developer, I specialize in creating the visual and interactive
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadman1075&show_icons=true&locale=en&layout=compact" alt="sadman1075" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman1075&" alt="sadman1075" width="1000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman1075&" alt="sadman1075" width="600" /></p>
