@@ -10,7 +10,7 @@ As a frontend web developer, I specialize in creating the visual and interactive
 
 </p>
 
-<img align="right" alt="coding" width="400" src="[https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)">
+<img align="right" alt="coding" width="400" src="[https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)">
 <h3 align="left">Activities:</h3>
 
 - 🌱 I’m currently learning **Next js and Nest js**
