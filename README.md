@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-As a frontend web developer, I specialize in creating the visual and interactive aspects of websites. My work involves transforming designs into functional web interfaces using languages like HTML, CSS, and JavaScript. My focus is on the user experience, ensuring that websites are not only visually appealing but also easy to navigate and responsive across different devices.Additionally, I work with frameworks and libraries like React.js to build dynamic and efficient web applications. My passion for coding and your goal to create modern web systems help you make a positive impact on the digital world.
+As a frontend web developer, I specialize in creating the visual and interactive aspects of websites. My work involves transforming designs into functional web interfaces using languages like HTML, CSS, and JavaScript. My focus is on the user experience, ensuring that websites are not only visually appealing but also easy to navigate and responsive across different devices.Additionally, I work with frameworks and libraries like React.js to build dynamic and efficient web applications. My passion for coding and my goal to create modern web systems help me make a positive impact on the digital world.
 
 </p>
 
